@@ -2,3 +2,4 @@
 /XorusDiscordBot/obj/
 .idea
 *.DotSettings.user
+config.yaml
