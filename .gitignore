@@ -1,0 +1,4 @@
+/XorusDiscordBot/bin/
+/XorusDiscordBot/obj/
+.idea
+*.DotSettings.user

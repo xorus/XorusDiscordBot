@@ -1,0 +1,5 @@
+﻿services:
+  raid_bot:
+    build: .
+    volumes:
+      - "./config.yaml:/app/config.yaml:rw"
